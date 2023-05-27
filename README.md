@@ -1,4 +1,4 @@
-# React-Games
+# React-Starter
 a basic react app for learning 
 
 # Credits to: 
